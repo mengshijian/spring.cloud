@@ -9,12 +9,12 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>spring_cloud_service</groupId>
-	<artifactId>spring.cloud.service</artifactId>
+	<groupId>spring_cloud_service2</groupId>
+	<artifactId>spring.cloud.service2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring.cloud.service</name>
+	<name>spring.cloud.service2</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
